@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 
 I am a PhD student in psycholinguistics at [Indiana University Bloomington](https://bloomington.iu.edu/index.html). My research interests are sentence and word processing using experimental (reaction time, accuracy, eye-tracking) and neuroimaging (EEG) methods. 
