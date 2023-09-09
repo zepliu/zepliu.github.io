@@ -2,8 +2,7 @@
 layout: page
 title: ""
 ---
-
-## 1. Syntactic Adaptation
+### 1. Syntactic Adaptation
 
 In this line of research, I am intersted in how people make use of linguistic and non-linguistic information to adapt their syntactic expectation during online processing.
 
@@ -15,8 +14,7 @@ In this line of research, I am intersted in how people make use of linguistic an
 
 - Liu, Z. & Lin, C. J. C. (2022). Cumulative structural priming in Chinese ambiguity resolution. Oral presentation at *Language and Computation: Cross-lingual Perspectives*, Renmin University of China–Indiana University Joint Funding Program, Renmin University of China (Virtual).
 
-
-## 2. Orthographic Processing
+### 2. Orthographic Processing
 
 I am also interested in Chinese word recognition and orthographic processing, mostly in typically developing children. 
 
