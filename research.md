@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Research
+title: ""
 ---
 
 ## 1. Syntactic Adaptation
