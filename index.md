@@ -4,7 +4,7 @@ title: ""
 ---
 
 <span style="font-size:25px"> 
-I am a PhD student in psycholinguistics at [Indiana University Bloomington](https://bloomington.iu.edu)). My research interests are sentence and word processing using experimental (reaction time, accuracy, eye-tracking) and neuroimaging (EEG) methods.</font>
+I am a PhD student in psycholinguistics at [Indiana University Bloomington](https://bloomington.iu.edu). My research interests are sentence and word processing using experimental (reaction time, accuracy, eye-tracking) and neuroimaging (EEG) methods.</font>
 
 I focus on how syntactic, semantic and prosodic information can be integrated in sentence comprehension. I am also interested in written word recognition and orthographic processing in Chinese. 
 
