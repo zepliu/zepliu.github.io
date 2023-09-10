@@ -9,7 +9,4 @@ I focus on how syntactic, semantic and prosodic information can be integrated in
 
 I work closely with [Dr. Chien-Jer Charles Lin](https://sites.google.com/view/chienjerlin/home) in the [Language and Cognition Lab](https://sites.google.com/view/language-and-cognition/home).
 
-
-<p align="center">
-  <img width="460" height="300" src="https://zepliu.github.io/assets/image/pic3.png">
-</p>
+![A picture of me](https://zepliu.github.io/assets/image/pic3.png)
