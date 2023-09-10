@@ -11,5 +11,5 @@ I work closely with [Dr. Chien-Jer Charles Lin](https://sites.google.com/view/ch
 
 
 <p align="center">
-  <img width="460" height="300" src="https://zepliu.github.io/assets/image/pic3.jpg">
+  <img width="460" height="300" url="https://zepliu.github.io/assets/image/pic3.jpg">
 </p>
