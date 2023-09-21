@@ -4,7 +4,7 @@ layout: post
 categories: meida
 ---
 
-Finally had my own website!!! I will try to keep updating my research work here and sharing interesting studies in the Blog section. Stay tuned!
+Finally had my own website!!! I will try to keep updating my research work here and sharing interesting studies.
 
 
 Sunset in Donostia-San Sebastian
