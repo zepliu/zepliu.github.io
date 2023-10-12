@@ -2,6 +2,7 @@
 layout: page
 url: "https://zepliu.github.io/assets/pdf/"
 ---
+
 ### 1. Syntactic Adaptation
 
 In this line of research, I am intersted in how people adapt their syntactic expectation and fine-tune syntactic preference during online processing.
