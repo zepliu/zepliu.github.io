@@ -8,6 +8,6 @@ I mainly focus on how language users adapt their syntactic processing to the lin
 
 I work closely with <a href="https://sites.google.com/view/chienjerlin/home" target="_blank">Dr. Chien-Jer Charles Lin</a> in the <a href="https://sites.google.com/view/language-and-cognition/home" target="_blank">Language and Cognition Lab</a>.
 
-**Contact**: zepliu@iu.edu
+**Contact**: zepliu [at] iu [dot] edu
 
 <img src="https://zepliu.github.io/assets/image/pic1.png" alt="image" width="35%" height="auto">
