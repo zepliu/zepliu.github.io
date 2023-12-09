@@ -6,7 +6,7 @@ url: "https://zepliu.github.io/assets/pdf/"
 
 ### 1. Syntactic Adaptation
 
-In this line of research, I am intersted in how people adapt their syntactic expectation and fine-tune syntactic preference during online processing.
+In this line of research, I am interested in how people adapt their syntactic expectation and fine-tune syntactic preference during online processing.
 
 - **Liu, Z.** & Lin, C. J. C. (2023). Greater prediction error does not lead to better syntactic adaptation: Evidence from Chinese ambiguity resolution. Poster presented at *the 29th Architectures and Mechanisms for Language Processing* (AMLaP-2023), Donostia-San Sebastian, Spain, August 31-September 2. [PDF](https://zepliu.github.io/assets/pdf/AMLaP23.pdf)
 
