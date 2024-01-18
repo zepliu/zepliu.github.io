@@ -1,22 +1,16 @@
 ---
 layout: page
 ---
-<table>
-  <tr>
-    <td>
-      ![Alt text for image](<img src="https://zepliu.github.io/assets/image/pic1.png" alt="image" width="30%" height="auto">)
-    </td>
-    <td>
-      I am a PhD student in psycholinguistics at <a href="https://bloomington.iu.edu/" target="_blank">Indiana University Bloomington</a>. My research interests are sentence and word processing using experimental (reaction time, accuracy, eye-tracking) and neuroimaging (EEG) methods.
+<img src="https://zepliu.github.io/assets/image/pic1.png" alt="image" width="30%" height="auto">
+
+I am a PhD student in psycholinguistics at <a href="https://bloomington.iu.edu/" target="_blank">Indiana University Bloomington</a>. My research interests are sentence and word processing using experimental (reaction time, accuracy, eye-tracking) and neuroimaging (EEG) methods.
 
 I mainly focus on how language users adapt their syntactic processing to the linguistic environment during sentence comprehension. I am also interested in written word recognition and orthographic processing in Chinese. 
 
 I work closely with <a href="https://sites.google.com/view/chienjerlin/home" target="_blank">Dr. Chien-Jer Charles Lin</a> in the <a href="https://sites.google.com/view/language-and-cognition/home" target="_blank">Language and Cognition Lab</a>.
 
 **Contact**: zepliu [at] iu [dot] edu
-    </td>
-  </tr>
-</table>
+
 
 
 
