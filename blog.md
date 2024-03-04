@@ -19,7 +19,7 @@ Here are some useful resources related to psycholinguistic research:
 
 #### 1.3 Model performance vs. Human performance 
 
-- [Syntactic Ambiguity Processing Benchmark](https://github.com/caplabnyu/sapbenchmark) [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000135)
+- [Syntactic Ambiguity Processing Benchmark](https://github.com/caplabnyu/sapbenchmark) Here is the [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000135)
 
 <br/>
 
@@ -43,17 +43,25 @@ Here are some useful resources related to psycholinguistic research:
 
 - [Visual world eye-tracking analysis](https://site.uit.no/acqvalab/workshop-visual-world-eye-tracking-analysis-in-r-with-aine-ito-16-17-02-2023/)
 
+<br/>
+
 ### 3. Paradigms 
 
 - [A-maze](https://vboyce.github.io/Maze/)
+
+<br/>
 
 ### 4. Materials Development 
 
 - Pictures for experimental tasks: [Link](https://www.irasutoya.com)
 
+<br/>
+
 ### 5. Running Experiments 
 
 - [Launch study on Pavlovia.org](https://www.psychopy.org/online/usingPavlovia.html)
+
+<br/>
 
 ### 6. Praat script 
 
