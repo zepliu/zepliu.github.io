@@ -33,7 +33,7 @@ Here are some useful resources related to psycholinguistic research:
 
 - [Find & Compare maximal mixed model](https://cran.r-project.org/web/packages/buildmer/vignettes/buildmer.html)
 
-- [GAMM analysis]("https://jacolienvanrij.com/Tutorials/GAMM.html#gam-or-bam")
+- [GAMM analysis](https://jacolienvanrij.com/Tutorials/GAMM.html#gam-or-bam)
 
 #### 2.2 Neurophysiological data
 
