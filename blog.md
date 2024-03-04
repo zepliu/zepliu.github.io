@@ -3,8 +3,6 @@ layout: default
 title: "Resources"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+Here are some resources might be helpful in conducting psycholinguistic studies:
+
+1. Large Language Models (LLMs) Surprisal 
