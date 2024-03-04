@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Resources"
+layout: page
+title: ""
 ---
 
 Here are some resources might be helpful in conducting psycholinguistic studies:
