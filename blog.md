@@ -9,50 +9,52 @@ Here are some useful resources related to psycholinguistic research:
 
 #### 1.1 Surprisal computation
 
-- A unified interface for [computing surprisal from language models](https://github.com/aalok-sathe/surprisal)
+- A unified interface for computing surprisal from language models: [Link](https://github.com/aalok-sathe/surprisal)
 
-- [Tools for calculating psycholinguistically-relevant metrics of language statistics using transformer language models] <a href="https://github.com/jmichaelov/PsychFormers" target="_blank">
+- Tools for calculating psycholinguistically-relevant metrics of language statistics using transformer language models: [Link](https://github.com/jmichaelov/PsychFormers)
 
 #### 1.2 Model traninig 
 
-- Professor Suhas Arehalli's [tutorials on model training and evaluation] <a href="https://sarehalli.github.io/resources" target="_blank">
+- Professor Suhas Arehalli's [tutorials on model training and evaluation](https://sarehalli.github.io/resources)
 
 #### 1.3 Model performance vs. Human performance 
 
-- [Syntactic Ambiguity Processing Benchmark] <a href="https://github.com/caplabnyu/sapbenchmark" target="_blank"> [Paper link] <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000135" target="_blank">
+- [Syntactic Ambiguity Processing Benchmark](https://github.com/caplabnyu/sapbenchmark) [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000135)
+
+<br/>
 
 ### 2. Data Analysis 
 
 #### 2.1 Statistical analysis
 
-- [Growth Curve Analysis] <a href="https://www.danmirman.org/gca" target="_blank">
+- [Growth Curve Analysis](https://www.danmirman.org/gca)
 
-- [Power Analysis] <a href="https://jakewestfall.shinyapps.io/crossedpower/" target="_blank">
+- [Power Analysis](https://jakewestfall.shinyapps.io/crossedpower/")
 
-- [Find & Compare maximal mixed model] <a href="https://cran.r-project.org/web/packages/buildmer/vignettes/buildmer.html" target="_blank">
+- [Find & Compare maximal mixed model](https://cran.r-project.org/web/packages/buildmer/vignettes/buildmer.html)
 
-- [GAMM analysis] <a href="https://jacolienvanrij.com/Tutorials/GAMM.html#gam-or-bam" target="_blank">
+- [GAMM analysis]("https://jacolienvanrij.com/Tutorials/GAMM.html#gam-or-bam")
 
 #### 2.2 Neurophysiological data
 
-- Open-source Python package for [analyzing human neurophysiological data] <a href="https://mne.tools/stable/index.html" target="_blank">
+- Open-source Python package for [analyzing human neurophysiological data](https://mne.tools/stable/index.html)
 
 #### 2.3 Eye-tracking data
 
-- [Visual world eye-tracking analysis] <a href="https://site.uit.no/acqvalab/workshop-visual-world-eye-tracking-analysis-in-r-with-aine-ito-16-17-02-2023/" target="_blank">
+- [Visual world eye-tracking analysis](https://site.uit.no/acqvalab/workshop-visual-world-eye-tracking-analysis-in-r-with-aine-ito-16-17-02-2023/)
 
 ### 3. Paradigms 
 
-- [A-maze] <a href="https://vboyce.github.io/Maze/" target="_blank">
+- [A-maze](https://vboyce.github.io/Maze/)
 
 ### 4. Materials Development 
 
-- [Pictures] <a href="https://www.irasutoya.com" target="_blank">
+- Pictures for experimental tasks: [Link](https://www.irasutoya.com)
 
 ### 5. Running Experiments 
 
-- [Launch study on Pavlovia.org] <a href="https://www.psychopy.org/online/usingPavlovia.html" target="_blank">
+- [Launch study on Pavlovia.org](https://www.psychopy.org/online/usingPavlovia.html)
 
 ### 6. Praat script 
 
-- Professor Danielle Daidone's [tutorials & praat script] <a href="https://www.ddaidone.com/praat-scripts.html" target="_blank">
+- Professor Danielle Daidone's [tutorials & praat script](https://www.ddaidone.com/praat-scripts.html)
