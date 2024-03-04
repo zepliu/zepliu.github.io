@@ -9,7 +9,7 @@ Here are some useful resources related to psycholinguistic research:
 
 #### 1.1 Surprisal computation
 
-- [A unified interface for computing surprisal (log likelihood) from language models---whether neural, symbolic, or black-box APIs] (https://github.com/aalok-sathe/surprisal)
+- A unified interface for [computing surprisal from language models](https://github.com/aalok-sathe/surprisal)
 
 - [Tools for calculating psycholinguistically-relevant metrics of language statistics using transformer language models] <a href="https://github.com/jmichaelov/PsychFormers" target="_blank">
 
