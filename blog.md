@@ -27,6 +27,7 @@ Here are some useful resources related to psycholinguistic research:
 
 #### 2.2 Neurophysiological data
 - Open-source Python package for analyzing human neurophysiological data: [Link](https://mne.tools/stable/index.html)
+- An easy-to-follow tutorial devoloped by Dr. Lu: [Link](https://github.com/ZitongLu1996/Python-EEG-Handbook)
 
 #### 2.3 Eye-tracking data
 - Tutorials on analyzing visual world eye-tracking data: [Link](https://site.uit.no/acqvalab/workshop-visual-world-eye-tracking-analysis-in-r-with-aine-ito-16-17-02-2023/)
