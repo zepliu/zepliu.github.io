@@ -16,6 +16,6 @@ In this line of research, I am interested in how people adapt their syntactic ex
 
 This topic concerns written word recognition and orthographic processing in Chinese. 
 
-- Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). A large-scale database of Chinese characters and words collected from elementary school textbooks. *Behavior Research Method*, 1-26. (+ denotes equal contribution) [PDF](https://zepliu.github.io/assets/pdf/BRM23.pdf)
+- Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). A large-scale database of Chinese characters and words collected from elementary school textbooks. *Behavior Research Method*, 1-26. (+ denotes equal contribution) [Link](https://link.springer.com/article/10.3758/s13428-023-02214-1)
 
-- Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). The cortical organization of writing sequence: evidence from observing Chinese characters in motion. *Brain Structure and Function*, 1-13. [PDF](https://zepliu.github.io/assets/pdf/BSF21.pdf)
+- Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). The cortical organization of writing sequence: evidence from observing Chinese characters in motion. *Brain Structure and Function*, 1-13. [Link](https://link.springer.com/article/10.1007/s00429-021-02276-x)
