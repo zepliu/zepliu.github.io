@@ -6,7 +6,7 @@ url: "https://zepliu.github.io/assets/pdf/"
 
 ### 1. Syntactic Adaptation
 
-In this line of research, I am interested in how people adapt their syntactic expectation and fine-tune syntactic preference based on syntactic, semnatic, and prosodic cues during sentence comprehension. 
+In this line of research, I am interested in how people adapt their syntactic expectations and fine-tune syntactic preferences based on syntactic, semantic, and prosodic cues during sentence comprehension. 
 
 - **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task. Poster presented at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI, US. May 16-18. [PDF](https://zepliu.github.io/assets/pdf/HSP24.pdf)
 
