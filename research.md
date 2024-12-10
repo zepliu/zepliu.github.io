@@ -8,7 +8,9 @@ url: "https://zepliu.github.io/assets/pdf/"
 
 In this line of research, I am interested in how people adapt their syntactic expectations and fine-tune syntactic preferences based on syntactic, semantic, and prosodic cues during sentence comprehension. 
 
-- **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task. Poster presented at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI, US. May 16-18. [PDF](https://zepliu.github.io/assets/pdf/HSP24.pdf)
+- Lin, C. J. C. & **Liu, Z.** (2024). Can Semantics and Prosody Facilitate a Syntactically Unlikely Parse? Talk presentation at *FOSS-15: The 15th Workshop on Formal Syntax and Semantics*, Taipei, Taiwan. October 12-13. 
+
+- **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task. Poster presentation at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI, US. May 16-18. [PDF](https://zepliu.github.io/assets/pdf/HSP24.pdf)
 
 - **Liu, Z.** & Lin, C. J. C. (2023). Greater prediction error does not lead to better syntactic adaptation: Evidence from Chinese ambiguity resolution. Poster presented at *the 29th Architectures and Mechanisms for Language Processing* (AMLaP-2023), Donostia-San Sebastian, Spain, August 31-September 2.
 
