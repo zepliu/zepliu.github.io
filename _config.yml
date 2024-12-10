@@ -1,6 +1,6 @@
 title: "Zeping Liu"
 author: "Zeping Liu"
-description: "Keep trying"
+description: "Keep trying (This is my motto; there's no more info below)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zepliu@iu.edu"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/zepliu05"}
-  # - {title: Github, icon: github, url: "https://github.com/zepliu?tab=repositories"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=hIwv8O4AAAAJ&hl=en&oi=sra"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
