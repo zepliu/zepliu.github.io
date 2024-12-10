@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zepliu@iu.edu"}
-  - {title: Twitter, icon: x-ray, url: "https://twitter.com/zepliu05"}
+  - {title: Twitter, icon: square-x-twitter, url: "https://twitter.com/zepliu05"}
   - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=hIwv8O4AAAAJ&hl=en&oi=sra"}
 
 comments:
