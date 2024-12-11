@@ -4,9 +4,9 @@ title: ""
 url: "https://zepliu.github.io/assets/pdf/"
 ---
 
-### 1. Syntactic Adaptation
+### 1. Ambiguity resolution
 
-In this line of research, I am interested in how people adapt their syntactic expectations and fine-tune syntactic preferences based on syntactic, semantic, and prosodic cues during sentence comprehension. 
+In this line of research, I am interested in how people make use of syntactic, semantic and prosodic cues to resolve ambiguities and how they align their interpretations in response to repeated exposure during sentence processing. 
 
 - Lin, C. J. C. & **Liu, Z.** (2024). Can Semantics and Prosody Facilitate a Syntactically Unlikely Parse? Talk presentation at *FOSS-15: The 15th Workshop on Formal Syntax and Semantics*, Taipei, Taiwan. October 12-13. 
 
