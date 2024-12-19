@@ -16,7 +16,7 @@ In this line of research, I am interested in how people make use of syntactic, s
 
 - **Liu, Z.** & Lin, C. J. C. (2022). [Adaptation effects in sentence ambiguity resolution revisited](https://zepliu.github.io/assets/pdf/HSP22.pdf). Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA, March 24-26 (Virtual).
 
-### 2. Orthographic Processing
+### 2. Orthographic processing
 
 This topic concerns written word recognition and orthographic processing in Chinese. 
 
