@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
-  - {url: "https://zepliu.github.io/LIU_CV_202409.pdf", title: "CV"}
+  - {url: "https://zepliu.github.io/LIU_CV_202410.pdf", title: "CV"}
   - {file: "blog.md", title: "Resources"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
