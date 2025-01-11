@@ -8,6 +8,8 @@ url: "https://zepliu.github.io/assets/pdf/"
 
 In this line of research, I am interested in how people make use of syntactic, semantic and prosodic cues to resolve structural ambiguities and how they align their interpretations in response to repeated exposure to the intented interpretation in sentence processing. 
 
+- Liu, Z., Lin, C. J. C., Nozari, N. (2024). Evaluating large language models surprisal on garden path ambiguity difficulty in English and Mandarin. Poster presentation at *Psychonomic Society 65th Annual Meeting*, New York City, NY. November 21-24. 
+
 - Lin, C. J. C. & **Liu, Z.** (2024). Can Semantics and Prosody Facilitate a Syntactically Unlikely Parse? Talk presentation at *FOSS-15: The 15th Workshop on Formal Syntax and Semantics*, Taipei, Taiwan. October 12-13. 
 
 - **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). [Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task](https://zepliu.github.io/assets/pdf/HSP24.pdf). Poster presentation at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI, US. May 16-18.
