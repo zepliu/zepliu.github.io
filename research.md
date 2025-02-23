@@ -8,6 +8,12 @@ url: "https://zepliu.github.io/assets/pdf/"
 
 In this line of research, I am interested in how people make use of syntactic, semantic and prosodic cues to resolve structural ambiguities and how they align their interpretations in response to repeated exposure to the intented interpretation in sentence processing. 
 
+**Publications**
+
+**Liu, Z.** & Lin, C. J. C. (To appear). The role of grammar in syntactic adaptation of Chinese: The state of the art. In S. Teng, L. Chang, & T. Liu (Eds.), *Handbook of Chinese Language Learning and Technology*. Springer.
+
+**Presentations**
+
 - **Liu, Z.**, Lin, C. J. C., Nozari, N. (2024). Evaluating large language models surprisal on garden path ambiguity difficulty in English and Mandarin. Poster presentation at *Psychonomic Society 65th Annual Meeting*, New York City, NY. November 21-24. 
 
 - Lin, C. J. C. & **Liu, Z.** (2024). Can Semantics and Prosody Facilitate a Syntactically Unlikely Parse? Talk presentation at *FOSS-15: The 15th Workshop on Formal Syntax and Semantics*, Taipei, Taiwan. October 12-13. 
@@ -21,6 +27,8 @@ In this line of research, I am interested in how people make use of syntactic, s
 ### 2. Orthographic processing
 
 This topic concerns written word recognition and orthographic processing in Chinese. 
+
+**Publications**
 
 - Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). [A large-scale database of Chinese characters and words collected from elementary school textbooks](https://link.springer.com/article/10.3758/s13428-023-02214-1). *Behavior Research Method*, 1-26. (+ denotes equal contribution)
 
