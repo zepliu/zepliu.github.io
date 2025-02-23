@@ -7,7 +7,7 @@ I am a PhD student in psycholinguistics at <a href="https://bloomington.iu.edu/"
 
 I mainly focus on how individuals use linguistic cues to resolve structural ambiguities and how repeated exposure to certain interpretations influences syntactic processing. I am also interested in written word recognition and orthographic processing in Chinese. 
 
-I work closely with <a href="https://sites.google.com/view/chienjerlin/home" target="_blank">Dr. Chien-Jer Charles Lin</a> in the <a href="https://sites.google.com/view/language-and-cognition/home" target="_blank">Language and Cognition Lab</a>.
+I work closely with <a href="https://sites.google.com/view/chienjerlin/home" target="_blank">Dr. Chien-Jer Charles Lin</a> in the <a href="https://sites.google.com/view/language-and-cognition/home" target="_blank">Language and Cognition Lab</a>. I also work with Dr. N. Bonnie Nozari in the <a href="https://www.nozarilab.com" target="_blank">Language Production and Executive Control Lab</a>.
 
 **Contact**: zepliu [at] iu [dot] edu
 
