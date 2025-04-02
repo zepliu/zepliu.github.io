@@ -1,5 +1,5 @@
 ---
-title:  "Resources for psycholinguistic experiments (1)"
+title:  "Paradigms and materials in psycholinguistic experiments"
 mathjax: true
 layout: post
 categories: media
