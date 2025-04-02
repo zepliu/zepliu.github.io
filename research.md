@@ -22,11 +22,11 @@ In this line of research, I am interested in how people use linguistic cues to r
 
 - Lin, C. J. C. & **Liu, Z.** (2024). Can semantics and prosody facilitate a syntactically unlikely parse? Talk presentation at *FOSS-15: The 15th Workshop on Formal Syntax and Semantics*, Taipei, Taiwan. October 12-13. 
 
-- **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). [Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task](https://zepliu.github.io/assets/pdf/HSP24.pdf). Poster presentation at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI. May 16-18.
+- **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task. Poster presentation at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI. May 16-18.
 
 - **Liu, Z.** & Lin, C. J. C. (2023). Greater prediction error does not lead to better syntactic adaptation: Evidence from Chinese ambiguity resolution. Poster presented at *the 29th Architectures and Mechanisms for Language Processing* (AMLaP-2023), Donostia-San Sebastian, Spain. August 31-September 2.
 
-- **Liu, Z.** & Lin, C. J. C. (2022). [Adaptation effects in sentence ambiguity resolution revisited](https://zepliu.github.io/assets/pdf/HSP22.pdf). Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26 (Virtual).
+- **Liu, Z.** & Lin, C. J. C. (2022). Adaptation effects in sentence ambiguity resolution revisited. Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26 (Virtual).
 
 ### 2. Orthographic processing
 
