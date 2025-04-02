@@ -5,6 +5,8 @@ layout: post
 categories: media
 ---
 
+This post compiles key statistical tools for analyzing psycholinguistic data, including time-course modeling, power analysis, and methods for neurophysiological and eye-tracking data.
+
 ### 1. Statistical tools
 - [Growth Curve Analysis for time course or longitudinal data](https://www.danmirman.org/gca)
 - [A Shiny application for power analysis](https://jakewestfall.shinyapps.io/crossedpower/)
