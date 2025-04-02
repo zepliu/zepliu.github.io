@@ -1,6 +1,8 @@
 ---
-title:  "Research Resources"
+title:  "Research resources"
+mathjax: true
 layout: post
+categories: media
 ---
 
 Here are some useful resources related to psycholinguistic research:
