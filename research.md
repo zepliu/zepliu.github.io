@@ -12,7 +12,7 @@ In this line of research, I am interested in how people use linguistic cues to r
 
 **Liu, Z.**, Lin, C. J. C. (2025). [*Grammar* in Syntactic Adaptations of Chinese: The State of the Art](https://doi.org/10.1007/978-981-97-5930-9_10). In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore.
 
-#### Presentations
+#### Conference Presentations:
 
 - **Liu, Z.**, Lin, C. J. C. (2025). The sound of syntax: Prosodic disambiguation for syntactic branching in a tone language. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD. March 27-29.
 
