@@ -1,6 +1,6 @@
 ---
 title:  "Resources"
-layout: default
+layout: post
 ---
 
 Here are some useful resources related to psycholinguistic research:
