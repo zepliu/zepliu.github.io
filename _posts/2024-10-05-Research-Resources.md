@@ -1,6 +1,9 @@
 ---
-title:  "Resources"
+title:  "Research Resources"
 layout: post
+categories:
+  - github
+  - website
 ---
 
 Here are some useful resources related to psycholinguistic research:
