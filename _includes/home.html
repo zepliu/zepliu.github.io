@@ -2,8 +2,12 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {% assign excerpt_lines = post.content | strip_newlines | split: '\n' | slice: 0,5 %}
-    <p>{{ excerpt_lines | join: '<br>' }}</p>
+    
+    {% assign lines = post.content | newline_to_br | split: '<br />' %}
+    {% assign excerpt = lines | slice: 0,5 | join: '<br />' %}
+    
+    <p>{{ excerpt }}</p>
+
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
