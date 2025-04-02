@@ -6,11 +6,17 @@ url: "https://zepliu.github.io/assets/pdf/"
 
 ### 1. Syntactic ambiguity resolution
 
-In this line of research, I am interested in how people make use of syntactic, semantic and prosodic cues to resolve structural ambiguities and how they align their interpretations in response to repeated exposure to the intented interpretation in sentence processing. 
+In this line of research, I am interested in how people use linguistic cues to resolve structural ambiguities and how their syntactic representations adapt through exposure.
 
-**Liu, Z.** & Lin, C. J. C. (To appear). The role of grammar in syntactic adaptation of Chinese: The state of the art. In S. Teng, L. Chang, & T. Liu (Eds.), *Handbook of Chinese Language Learning and Technology*. Springer.
+**Liu, Z.**, & Lin, C. J. C. (2025). [EXPRESS: Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese](https://doi.org/10.1177/17470218251332420). *Quarterly Journal of Experimental Psychology*, 0(ja). 
+
+**Liu, Z.**, Lin, C. J. C. (2025). [*Grammar* in Syntactic Adaptations of Chinese: The State of the Art](https://doi.org/10.1007/978-981-97-5930-9_10). In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore.
 
 #### Presentations
+
+- **Liu, Z.**, Lin, C. J. C. (2025). The sound of syntax: Prosodic disambiguation for syntactic branching in a tone language. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD, US. March 27-29.
+
+- **Liu, Z.**, Lin, C. J. C., Nozari, N. (2025). Not lost in the garden path: Large Language Models navigate their way to syntactic knowledge. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD, US. March 27-29.
 
 - **Liu, Z.**, Lin, C. J. C., Nozari, N. (2024). Evaluating large language models surprisal on garden path ambiguity difficulty in English and Mandarin. Poster presentation at *Psychonomic Society 65th Annual Meeting*, New York City, NY. November 21-24. 
 
