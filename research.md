@@ -13,9 +13,13 @@ In this line of research, I am interested in how people use linguistic cues to r
 
 #### Conference Presentations:
 
+#### 2025
+
 - **Liu, Z.**, Lin, C. J. C. (2025). The sound of syntax: Prosodic disambiguation for syntactic branching in a tone language. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD. March 27-29.
 
 - **Liu, Z.**, Lin, C. J. C., Nozari, N. (2025). Not lost in the garden path: Large Language Models navigate their way to syntactic knowledge. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD. March 27-29.
+
+#### 2024
 
 - **Liu, Z.**, Lin, C. J. C., Nozari, N. (2024). Evaluating large language models surprisal on garden path ambiguity difficulty in English and Mandarin. Poster presentation at *Psychonomic Society 65th Annual Meeting*, New York City, NY. November 21-24. 
 
@@ -23,7 +27,11 @@ In this line of research, I am interested in how people use linguistic cues to r
 
 - **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task. Poster presentation at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI. May 16-18.
 
+#### 2023
+
 - **Liu, Z.** & Lin, C. J. C. (2023). Greater prediction error does not lead to better syntactic adaptation: Evidence from Chinese ambiguity resolution. Poster presented at *the 29th Architectures and Mechanisms for Language Processing* (AMLaP-2023), Donostia-San Sebastian, Spain. August 31-September 2.
+
+#### 2022
 
 - **Liu, Z.** & Lin, C. J. C. (2022). Adaptation effects in sentence ambiguity resolution revisited. Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26 (Virtual).
 
