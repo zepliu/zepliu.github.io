@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Research"
-url: "https://zepliu.github.io/assets/pdf/"
+# url: "https://zepliu.github.io/assets/pdf/"
 ---
 
 ### 1. Syntactic ambiguity resolution
