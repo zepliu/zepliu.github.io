@@ -3,15 +3,19 @@ layout: page
 # url: "https://zepliu.github.io/assets/pdf/"
 ---
 
-### 1. Syntactic ambiguity resolution
-
-In this line of research, I am interested in how people use linguistic cues to resolve structural ambiguities and how their syntactic representations adapt through exposure.
+### 1. Publications
 
 **Liu, Z.**, & Lin, C. J. C. (2025). [EXPRESS: Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese](https://doi.org/10.1177/17470218251332420). *Quarterly Journal of Experimental Psychology*, 0(ja). 
 
 **Liu, Z.**, Lin, C. J. C. (2025). [*Grammar* in Syntactic Adaptations of Chinese: The State of the Art](https://doi.org/10.1007/978-981-97-5930-9_10). In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore.
 
-#### Conference Presentations:
+- Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). [A large-scale database of Chinese characters and words collected from elementary school textbooks](https://link.springer.com/article/10.3758/s13428-023-02214-1). *Behavior Research Method*, 1-26. (+ denotes equal contribution)
+
+- Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). [The cortical organization of writing sequence: evidence from observing Chinese characters in motion](https://link.springer.com/article/10.1007/s00429-021-02276-x). *Brain Structure and Function*, 1-13.
+
+***
+
+### 2. Conference Presentations
 
 #### 2025
 
@@ -34,11 +38,3 @@ In this line of research, I am interested in how people use linguistic cues to r
 #### 2022
 
 - **Liu, Z.** & Lin, C. J. C. (2022). Adaptation effects in sentence ambiguity resolution revisited. Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26 (Virtual).
-
-### 2. Orthographic processing
-
-This topic concerns written word recognition and orthographic processing in Chinese. 
-
-- Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). [A large-scale database of Chinese characters and words collected from elementary school textbooks](https://link.springer.com/article/10.3758/s13428-023-02214-1). *Behavior Research Method*, 1-26. (+ denotes equal contribution)
-
-- Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). [The cortical organization of writing sequence: evidence from observing Chinese characters in motion](https://link.springer.com/article/10.1007/s00429-021-02276-x). *Brain Structure and Function*, 1-13.
