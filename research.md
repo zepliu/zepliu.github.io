@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Research"
 ---
 
 ### 1. Publication
