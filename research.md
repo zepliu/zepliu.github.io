@@ -41,5 +41,3 @@ layout: page
 - **Liu, Z.** & Lin, C. J. C. (2022). Adaptation effects in sentence ambiguity resolution revisited. Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26. (Virtual)
 
 - **Liu, Z.** & Lin, C. J. C. (2022). Cumulative structural priming in Chinese ambiguity resolution. Oral presentation at *Language and Computation: Cross-lingual Perspectives, Renmin University of China–Indiana University Joint Funding Program*, Renmin University of China, China, January 22. (Virtual)
-
-<!-- If you want to include pdf link in this page, put this under "layout: page": url: "https://zepliu.github.io/assets/pdf/ -->
