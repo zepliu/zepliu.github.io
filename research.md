@@ -2,9 +2,7 @@
 layout: page
 ---
 
-<!-- If you want to include pdf link in this page, put this under "layout: page": url: "https://zepliu.github.io/assets/pdf/ -->
-
-### 1. Publications
+### 1. Publication
 
 - **Liu, Z.**, & Lin, C. J. C. (2025). [EXPRESS: Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese](https://doi.org/10.1177/17470218251332420). *Quarterly Journal of Experimental Psychology*, 0(ja). 
 
@@ -16,7 +14,7 @@ layout: page
 
 ***
 
-### 2. Conference Presentations
+### 2. Conference Presentation
 
 #### 2025
 
@@ -32,10 +30,16 @@ layout: page
 
 - **Liu, Z.**, Xin, C., & Lin, C. J. C. (2024). Usefulness of prosodic cues in parsing: Evidence from a novel cross-modal maze task. Poster presentation at *the 37th Annual Conference on Human Sentence Processing*, University of Michigan, Ann Arbor, MI. May 16-18.
 
+- Ding, X., Dong, X., Liu, X., **Liu, Z**. (2024). Navigating project-based language learning (PBLL) challenges: A two-year journey of growth and reflections. Oral presentation at *ACTFL Annual Convention and World Languages Expo*, Philadelphia, PA. November 22-24.
+
 #### 2023
 
 - **Liu, Z.** & Lin, C. J. C. (2023). Greater prediction error does not lead to better syntactic adaptation: Evidence from Chinese ambiguity resolution. Poster presented at *the 29th Architectures and Mechanisms for Language Processing* (AMLaP-2023), Donostia-San Sebastian, Spain. August 31-September 2.
 
 #### 2022
 
-- **Liu, Z.** & Lin, C. J. C. (2022). Adaptation effects in sentence ambiguity resolution revisited. Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26 (Virtual).
+- **Liu, Z.** & Lin, C. J. C. (2022). Adaptation effects in sentence ambiguity resolution revisited. Poster presented at *the 35th Annual Conference on Human Sentence Processing*, University of California, Santa Cruz, CA. March 24-26. (Virtual)
+
+- **Liu, Z.** & Lin, C. J. C. (2022). Cumulative structural priming in Chinese ambiguity resolution. Oral presentation at *Language and Computation: Cross-lingual Perspectives, Renmin University of China–Indiana University Joint Funding Program*, Renmin University of China, China, January 22. (Virtual)
+
+<!-- If you want to include pdf link in this page, put this under "layout: page": url: "https://zepliu.github.io/assets/pdf/ -->
