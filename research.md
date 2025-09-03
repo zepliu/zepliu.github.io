@@ -21,6 +21,8 @@ title: "Research"
 
 #### 2025
 
+- Lin, C. J. C., **Liu, Z.** & Dong, X. (2025). Building structures left to right and bottom up: The production and perception of syntactic branching by L1 and L2 users of a tone Language. Oral presentation at *the 31st Architectures and Mechanisms for Language Processing* (AMLaP-2025), Charles University, Prague, Czech Republic. September 4-6.
+
 - **Liu, Z.**, Lin, C. J. C. (2025). The sound of syntax: Prosodic disambiguation for syntactic branching in a tone language. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD. March 27-29.
 
 - **Liu, Z.**, Lin, C. J. C., Nozari, N. (2025). Not lost in the garden path: Large Language Models navigate their way to syntactic knowledge. Poster presentation at *the 38th Annual Conference on Human Sentence Processing*, University of Maryland, College Park, MD. March 27-29.
