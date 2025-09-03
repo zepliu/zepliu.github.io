@@ -5,6 +5,8 @@ title: "Research"
 
 ### 1. Publication
 
+- Zhang, M., **Liu, Z.**, Liu, X., Lu, P., Liu, L., & Guo, T. (2025). [Electrophysiological activity predicts children's reading ability through orthographic awareness: Evidence from a cross-sectional and longitudinal study](https://doi.org/10.1016/j.dcn.2025.101609). *Developmental Cognitive Neuroscience*, 101609.
+
 - **Liu, Z.**, & Lin, C. J. C. (2025). [Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese](https://doi.org/10.1177/17470218251332420). *Quarterly Journal of Experimental Psychology*, 0(0). 
 
 - **Liu, Z.**, Lin, C. J. C. (2025). [*Grammar* in Syntactic Adaptations of Chinese: The State of the Art](https://doi.org/10.1007/978-981-97-5930-9_10). In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore.
