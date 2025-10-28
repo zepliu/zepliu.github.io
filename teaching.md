@@ -4,18 +4,16 @@ title: "Teaching"
 ---
 
 ### 1. Courses teaching
-EALC-E 208 Languages and Cultures of East Asia and the Wolrd &nbsp;&nbsp;&nbsp; _Spring 2026_ <br>
-EALC-C 467 Chinese in Social Science &nbsp;&nbsp;&nbsp; _Spring 2024_ <br>
-EALC-C 302 Third Year Chinese II &nbsp;&nbsp;&nbsp; _Spring 2023_ <br>
-EALC-C 101 First Year Chinese I &nbsp;&nbsp;&nbsp; _Fall 2022 & 2023_<br><span style="display:block; height:0.5em;"></span>
+EALC-E 208 **Languages and Cultures of East Asia and the Wolrd** &nbsp;&nbsp;&nbsp; _Spring 2026_ <br>
+EALC-C 467 **Chinese in Social Science** &nbsp;&nbsp;&nbsp; _Spring 2024_ <br>
+EALC-C 302 **Third Year Chinese II** &nbsp;&nbsp;&nbsp; _Spring 2023_ <br>
+EALC-C 101 **First Year Chinese I** &nbsp;&nbsp;&nbsp; _Fall 2022 & 2023_<br><span style="display:block; height:0.7em;"></span>
 Indiana University Bloomington, IN, USA
 
-Introduction to Second Language Studies &nbsp;&nbsp;&nbsp; _Spring 2019_
-
+**Introduction to Second Language Studies** &nbsp;&nbsp;&nbsp; _Spring 2019_ <br><span style="display:block; height:0.7em;"></span>
 Beijing Language and Culture University, Beijing, China
 
-[Princeton in Beijing Language Learning Program](https://pib.princeton.edu/) &nbsp;&nbsp;&nbsp; _Summer 2017_
-
+[Princeton in Beijing Language Learning Program](https://pib.princeton.edu/) &nbsp;&nbsp;&nbsp; _Summer 2017_ <br><span style="display:block; height:0.7em;"></span>
 Princeton University & Beijing Normal University, Beijing, China
 ***
 
