@@ -13,7 +13,7 @@ Indiana University Bloomington, IN, USA
 **Introduction to Second Language Studies** &nbsp;&nbsp;&nbsp; _Spring 2019_ <br><span style="display:block; height:0.5em;"></span>
 Beijing Language and Culture University, Beijing, China
 
-[**Princeton in Beijing Language Learning Program**](https://pib.princeton.edu/) &nbsp;&nbsp;&nbsp; _Summer 2017_ <br><span style="display:block; height:0.5em;"></span>
+**Princeton in Beijing Language Learning Program** &nbsp;&nbsp;&nbsp; _Summer 2017_ <br><span style="display:block; height:0.5em;"></span>
 Princeton University & Beijing Normal University, Beijing, China
 
 ### 2. Mentoring
