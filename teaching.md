@@ -7,7 +7,7 @@ title: "Teaching"
 EALC-E 208 Languages and Cultures of East Asia and the Wolrd &nbsp;&nbsp;&nbsp; _Spring 2026_ <br>
 EALC-C 467 Chinese in Social Science &nbsp;&nbsp;&nbsp; _Spring 2024_ <br>
 EALC-C 302 Third Year Chinese II &nbsp;&nbsp;&nbsp; _Spring 2023_ <br>
-EALC-C 101 First Year Chinese I &nbsp;&nbsp;&nbsp; _Fall 2022 & 2023_<br><br>
+EALC-C 101 First Year Chinese I &nbsp;&nbsp;&nbsp; _Fall 2022 & 2023_<br><span style="display:block; height:0.5em;"></span>
 Indiana University Bloomington, IN, USA
 
 Introduction to Second Language Studies &nbsp;&nbsp;&nbsp; _Spring 2019_
