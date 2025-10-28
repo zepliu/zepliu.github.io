@@ -22,7 +22,7 @@ Princeton University & Beijing Normal University, Beijing, China
 Mentoring two undergraduates through Indiana University's inaugural [Layered-Learning Program for Undergraduate Researchers](https://research.iu.edu/funding-proposals/funding/opportunities/layered-learning-program/index.html) on a prosody research
 
 **Graduate Research Mentor** &nbsp;&nbsp;&nbsp; _Spring 2025_ <br>
-Mentored an MA student on computational methods to syntactic processing and a PhD student in eye-tracking experiment setup and data collection
+Mentored an MA student on computational approaches to syntactic processing and a PhD student on setting up and operating the EyeLink eye-tracking system
 
 **Writing Tutor** &nbsp;&nbsp;&nbsp; _Spring 2025_ <br>
-Provided individualized writing support to students across disciplines at [Writing Tutorial Service](https://wts.indiana.edu/) at Indiana University
+Provided individualized writing support to students from diverse disciplines at the [Writing Tutorial Service](https://wts.indiana.edu/) at Indiana University
