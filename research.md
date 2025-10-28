@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: " "
 ---
 
 ### 1. Publication
