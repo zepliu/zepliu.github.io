@@ -3,7 +3,7 @@ layout: page
 ---
 <img src="https://zepliu.github.io/assets/image/pic1.png" alt="image" width="25%" height="50%">
 
-I am a PhD student at Indiana University Bloomington. I'm interested in psycholinguistics.
+I am a PhD student at Indiana University Bloomington. I'm interested in language, cognition, and learning.
 
 My research broadly explores the relationship between language and cognition, with specific interests in sentence & word processing and language learning. Within this broad framework, my work centers on three main areas:
 
