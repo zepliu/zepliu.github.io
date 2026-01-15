@@ -7,7 +7,7 @@ title: " "
 
 Zhang, M., **Liu, Z.**, Liu, X., Lu, P., Liu, L., & Guo, T. (2025). Electrophysiological activity predicts children's reading ability through orthographic awareness: Evidence from a cross-sectional and longitudinal study. *Developmental Cognitive Neuroscience*, 101609. [Link](https://doi.org/10.1016/j.dcn.2025.101609)
 
-**Liu, Z.**, & Lin, C. J. C. (2025). Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese. *Quarterly Journal of Experimental Psychology*, 0(0). [Link](https://doi.org/10.1177/17470218251332420)
+**Liu, Z.**, & Lin, C. J. C. (2025). Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese. *Quarterly Journal of Experimental Psychology*, 79(1), 22-41. [Link](https://doi.org/10.1177/17470218251332420)
 
 **Liu, Z.**, Lin, C. J. C. (2025). *Grammar* in Syntactic Adaptations of Chinese: The State of the Art. In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore. [Link](https://doi.org/10.1007/978-981-97-5930-9_10)
 
