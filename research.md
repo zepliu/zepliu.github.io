@@ -17,6 +17,10 @@ Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T.
 
 ### 2. Conference Presentation
 
+#### 2026
+
+**Liu, Z.**, Lin, C. J. C. (2026). Unfolding syntax through prosody: Interpreting and signaling branching structure in a tone language. Poster will be presented at *the 39th Annual Conference on Human Sentence Processing*, Massachusetts Institute of Technology, Cambridge, MA. March 26-28.
+
 #### 2025
 
 Lin, C. J. C., **Liu, Z.** & Dong, X. (2025). Building structures left to right and bottom up: The production and perception of syntactic branching by L1 and L2 users of a tone Language. Oral presentation at *the 31st Architectures and Mechanisms for Language Processing* (AMLaP-2025), Charles University, Prague, Czech Republic. September 4-6.
