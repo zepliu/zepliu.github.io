@@ -19,7 +19,7 @@ Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T.
 
 #### 2026
 
-**Liu, Z.**, Lin, C. J. C. (2026). Prosody under tonal constraints: How prosodic cues are used in syntactic disambiguation in a tone language. Poster will be presented at *the 20th Conference on Laboratory Phonology* (LabPhon-20), Montral, Qubec, Canada. June 26-28.
+**Liu, Z.**, Lin, C. J. C. (2026). Prosody under tonal constraints: How prosodic cues are used in syntactic disambiguation in a tone language. Poster will be presented at *the 20th Conference on Laboratory Phonology* (LabPhon-20), Montral, Quebec, Canada. June 26-28.
 
 **Liu, Z.**, Lin, C. J. C. (2026). Unfolding syntax through prosody: Interpreting and signaling branching structure in a tone language. Poster will be presented at *the 39th Annual Conference on Human Sentence Processing*, Massachusetts Institute of Technology, Cambridge, MA. March 26-28.
 
