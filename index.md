@@ -13,7 +13,7 @@ My research broadly explores the relationship between language and cognition, wi
 
 At Indiana University, I work closely with <a href="https://sites.google.com/view/chienjerlin/home" target="_blank">Dr. Chien-Jer Charles Lin</a> in the Language and Cognition Lab. I also collaborate with <a href="https://www.nozarilab.com/bonnie" target="_blank">Dr. Bonnie Nozari</a> in the Language Production and Executive Control Lab. In addition, I work with <a href="https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/d7ea1219c8074270bba5c736af040ba7.htm" target="_blank">Dr. Taomei Guo</a> at Beijing Normal University on research related to children's orthographic processing.
 
-**Contact**: zepliu [at] iu [dot] edu
+**Contact**: zepliu@iu.edu or liuzepinglg@gmail.com
 
 
 
