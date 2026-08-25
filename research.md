@@ -5,23 +5,23 @@ title: " "
 
 ### 1. Publication
 
-Zhang, M., **Liu, Z.**, Liu, X., Lu, P., Liu, L., & Guo, T. (2025). Electrophysiological activity predicts children's reading ability through orthographic awareness: Evidence from a cross-sectional and longitudinal study. *Developmental Cognitive Neuroscience*, 101609. [Link](https://doi.org/10.1016/j.dcn.2025.101609)
+Zhang, M., **Liu, Z.**, Liu, X., Lu, P., Liu, L., & Guo, T. (2025). Electrophysiological activity predicts children's reading ability through orthographic awareness: Evidence from a cross-sectional and longitudinal study. *Developmental Cognitive Neuroscience*, 101609. **[Link](https://doi.org/10.1016/j.dcn.2025.101609)**
 
-**Liu, Z.**, & Lin, C. J. C. (2025). Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese. *Quarterly Journal of Experimental Psychology*, 79(1), 22-41. [Link](https://doi.org/10.1177/17470218251332420)
+**Liu, Z.**, & Lin, C. J. C. (2025). Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese. *Quarterly Journal of Experimental Psychology*, 79(1), 22-41. **[Link](https://doi.org/10.1177/17470218251332420)**
 
-**Liu, Z.**, Lin, C. J. C. (2025). *Grammar* in Syntactic Adaptations of Chinese: The State of the Art. In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore. [Link](https://doi.org/10.1007/978-981-97-5930-9_10)
+**Liu, Z.**, Lin, C. J. C. (2025). *Grammar* in Syntactic Adaptations of Chinese: The State of the Art. In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore. **[Link](https://doi.org/10.1007/978-981-97-5930-9_10)**
 
-Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). A large-scale database of Chinese characters and words collected from elementary school textbooks. *Behavior Research Method*, 56(5), 4732-4757. (+ denotes equal contribution) [Link](https://link.springer.com/article/10.3758/s13428-023-02214-1)
+Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). A large-scale database of Chinese characters and words collected from elementary school textbooks. *Behavior Research Method*, 56(5), 4732-4757. (+ denotes equal contribution) **[Link](https://link.springer.com/article/10.3758/s13428-023-02214-1)**
 
-Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). The cortical organization of writing sequence: evidence from observing Chinese characters in motion. *Brain Structure and Function*, 226(5), 1627-1639. [Link](https://link.springer.com/article/10.1007/s00429-021-02276-x)
+Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). The cortical organization of writing sequence: evidence from observing Chinese characters in motion. *Brain Structure and Function*, 226(5), 1627-1639. **[Link](https://link.springer.com/article/10.1007/s00429-021-02276-x)**
 
 ### 2. Conference Presentation
 
 #### 2026
 
-**Liu, Z.**, Lin, C. J. C. (2026). Prosody under tonal constraints: How prosodic cues are used in syntactic disambiguation in a tone language. Poster will be presented at *the 20th Conference on Laboratory Phonology* (LabPhon-20), Montral, Quebec, Canada. June 26-28.
+**Liu, Z.**, Lin, C. J. C. (2026). Prosody under tonal constraints: How prosodic cues are used in syntactic disambiguation in a tone language. Poster presented at *the 20th Conference on Laboratory Phonology* (LabPhon-20), Montreal, Quebec, Canada. June 26-28.
 
-**Liu, Z.**, Lin, C. J. C. (2026). Unfolding syntax through prosody: Interpreting and signaling branching structure in a tone language. Poster will be presented at *the 39th Annual Conference on Human Sentence Processing*, Massachusetts Institute of Technology, Cambridge, MA. March 26-28.
+**Liu, Z.**, Lin, C. J. C. (2026). Unfolding syntax through prosody: Interpreting and signaling branching structure in a tone language. Poster presented at *the 39th Annual Conference on Human Sentence Processing*, Massachusetts Institute of Technology, Cambridge, MA. March 26-28.
 
 #### 2025
 
