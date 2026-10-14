@@ -23,7 +23,7 @@ Step 4: Push the changes to Github
 
 git push
 
-Step 5: If it shows fatal: unable to access
+Step 5: If 'git push' shows fatal: unable to access
 
 git remote -v
 
