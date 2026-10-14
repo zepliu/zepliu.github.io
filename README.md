@@ -4,6 +4,26 @@ permalink: "/about/"
 layout: page
 ---
 
+<!-- How to commit the changes 
+Step 1: Save the changes in the file 
+Command + S
+
+Step 2: Inspect the changes 
+Right corner: open VS Code’s integrated terminal
+
+git status
+
+Step 3: Commit the changes
+
+git add .
+
+git commit -m "Update homepage"
+
+Step 4: Push the changes to Github
+
+git push
+-->
+
 ## Installation
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.

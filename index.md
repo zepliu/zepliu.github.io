@@ -5,7 +5,7 @@ layout: page
 
 I'm a researcher exploring how language, cognition, and learning intersect. I recently earned my PhD in Chinese Linguistics from Indiana University Bloomington. 
 
-My research examines how people comprehend, process, and learn language, with particular interests in sentence & word processing and language learning. To investigate these questions, I combine behavioral measures, such as reaction times and eye-tracking, with neurocognitive methods, such as ERPs, and computational modeling. My work centers on three main areas:
+My research examines how people comprehend, process, and learn language, with particular interests in sentence & word processing and language learning. To investigate these questions, I use methods from behavioral and experimental psycholinguistics (reaction times and eye tracking), electrophysiology (ERPs), and computational modeling. My work centers on three main areas:
 
 1. Sentence processing and comprehension -- examining how people integrate different sources of linguistic information, such as syntax and prosody, to interpret language in real time; <br>
 2. Word recognition and lexical processing -- investigating how Chinese children process, represent, and learn written words; <br>
