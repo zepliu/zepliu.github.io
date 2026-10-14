@@ -22,6 +22,14 @@ git commit -m "Update homepage"
 Step 4: Push the changes to Github
 
 git push
+
+Step 5: If it shows fatal: unable to access
+
+git remote -v
+
+git remote set-url origin https://github.com/zepliu/zepliu.github.io.git
+
+git push
 -->
 
 ## Installation
