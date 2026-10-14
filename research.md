@@ -5,15 +5,15 @@ title: " "
 
 ### 1. Publication
 
-**Liu, Z.**, & Lin, C. J. C. (2026). Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese. *Quarterly Journal of Experimental Psychology*, 79(1), 22-41. **[Link](https://doi.org/10.1177/17470218251332420)**
+**Liu, Z.**, & Lin, C. J. C. (2026). Plausibility leads to better comprehension but not syntactic adaptation: Evidence from structural disambiguation in Chinese. *Quarterly Journal of Experimental Psychology*, 79(1), 22-41. <u>[Link](https://doi.org/10.1177/17470218251332420)</u>
 
-**Liu, Z.**, Lin, C. J. C. (2026). *Grammar* in Syntactic Adaptations of Chinese: The State of the Art. In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore. **[Link](https://doi.org/10.1007/978-981-97-5930-9_10)**
+**Liu, Z.**, Lin, C. J. C. (2026). *Grammar* in Syntactic Adaptations of Chinese: The State of the Art. In: Teng, SH., Chang, LP., Liu, TH. (eds) *Handbook of Chinese Language Learning and Technology*. Springer, Singapore. <u>[Link](https://doi.org/10.1007/978-981-97-5930-9_10)</u>
 
-Zhang, M., **Liu, Z.**, Liu, X., Lu, P., Liu, L., & Guo, T. (2025). Electrophysiological activity predicts children's reading ability through orthographic awareness: Evidence from a cross-sectional and longitudinal study. *Developmental Cognitive Neuroscience*, 101609. **[Link](https://doi.org/10.1016/j.dcn.2025.101609)**
+Zhang, M., **Liu, Z.**, Liu, X., Lu, P., Liu, L., & Guo, T. (2025). Electrophysiological activity predicts children's reading ability through orthographic awareness: Evidence from a cross-sectional and longitudinal study. *Developmental Cognitive Neuroscience*, 101609. <u>[Link](https://doi.org/10.1016/j.dcn.2025.101609)</u>
 
-Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). A large-scale database of Chinese characters and words collected from elementary school textbooks. *Behavior Research Method*, 56(5), 4732-4757. (+ denotes equal contribution) **[Link](https://link.springer.com/article/10.3758/s13428-023-02214-1)**
+Zhang, M.+, **Liu, Z.+**, Botezatu, M.R., Dang, Q., Yuan, Q., Han, J., Liu, L, & Guo, T. (2023). A large-scale database of Chinese characters and words collected from elementary school textbooks. *Behavior Research Method*, 56(5), 4732-4757. (+ denotes equal contribution) <u>[Link](https://link.springer.com/article/10.3758/s13428-023-02214-1)</u>
 
-Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). The cortical organization of writing sequence: evidence from observing Chinese characters in motion. *Brain Structure and Function*, 226(5), 1627-1639. **[Link](https://link.springer.com/article/10.1007/s00429-021-02276-x)**
+Zhang, Z., Yuan, Q., **Liu, Z.**, Zhang, M., Wu, J., Lu, C., Ding, G., & Guo, T. (2021). The cortical organization of writing sequence: evidence from observing Chinese characters in motion. *Brain Structure and Function*, 226(5), 1627-1639. <u>[Link](https://link.springer.com/article/10.1007/s00429-021-02276-x)</u>
 
 ### 2. Conference Presentation
 
